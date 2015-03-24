@@ -4,7 +4,7 @@ title: Welcome2!
 
 ---
 
-Another entry. We will see if this works. :-) I just changed now 5:01.
+Another entry. We will see if this works. :-) I just changed now 5:26.
 
 <!DOCTYPE html>
 
@@ -52,7 +52,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <style type="text/css">
 .main-container {
   max-width: 940px;
-  margin-left: -10px;
+  margin-left: -20px;
   margin-right: auto;
 }
 </style>
