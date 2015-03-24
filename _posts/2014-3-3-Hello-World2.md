@@ -4,9 +4,9 @@ title: Welcome2!
 
 ---
 
-Another entry. We will see if this works. :-) I just changed now 5:26.
+Another entry. We will see if this works. :-) I just changed now 5:29.
 
-<!DOCTYPE html>
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
