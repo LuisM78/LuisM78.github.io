@@ -48,10 +48,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <body>
 
 <style type="text/css">
-.main-container {
-  max-width: 940px;
-  margin-left: -280;
-  margin-right: auto;
+
 }
 </style>
 <div class="container-fluid main-container">
