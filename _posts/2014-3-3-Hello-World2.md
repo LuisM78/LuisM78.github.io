@@ -5,8 +5,6 @@ title: Welcome2!
 
 Another entry. We will see if this works. :-)
 
-<!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
