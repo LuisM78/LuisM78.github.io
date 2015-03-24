@@ -6,16 +6,6 @@ title: Welcome2!
 
 Another entry. We will see if this works. :-) I just changed now 3:31.
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-
-<meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="pandoc" />
-
-<meta name="author" content="Luis M78" />
-
 
 <title>PracticalMachineLearningProject_March2015</title>
 
