@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome2!
-max-width: 940px;
+max-width: 940px
 ---
 
 Another entry. We will see if this works. :-) I just changed now .
