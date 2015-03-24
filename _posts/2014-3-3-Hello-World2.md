@@ -4,7 +4,7 @@ title: Welcome2!
 max-width: 940px;
 ---
 
-Another entry. We will see if this works. :-)
+Another entry. We will see if this works. :-) I just changed now .
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
