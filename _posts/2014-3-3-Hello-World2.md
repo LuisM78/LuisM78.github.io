@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Welcome2!
-max-width: 940px
+
 ---
 
-Another entry. We will see if this works. :-) I just changed now .
+Another entry. We will see if this works. :-) I just changed now 3:11.
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
