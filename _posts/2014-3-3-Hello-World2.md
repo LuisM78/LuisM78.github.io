@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Welcome2!
 ---
 
-Another entry.
+Another entry. We will see if this works. :-)
