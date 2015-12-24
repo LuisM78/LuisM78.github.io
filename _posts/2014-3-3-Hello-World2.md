@@ -51,7 +51,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 
 <style type="text/css">
 .main-container {
-  max-width: 600px;
+  max-width: 1400px;
   margin-left: -20px;
   margin-right: auto;
 }
