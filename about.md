@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I have a background in Mechanical Engineering and graduated with a PhD title after experimentally studying and numerical modelling of heat transfer in building photovoltaic thermal systems.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am passionate open software and technologies for data logging and analysis. I love working with R and Python for data analysis.
 
 ### Contact me
 
