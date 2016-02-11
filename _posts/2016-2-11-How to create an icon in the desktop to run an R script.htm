@@ -1,0 +1,91 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><b><span style='font-size:35.0pt;line-height:107%;
+color:#00B0F0'>How to create an icon in your Windows desktop to run an R script
+(or shiny App in this example)</span></b></p>
+
+<p class=MsoNormal>Right click on the desktop and select New -&gt; shortcut</p>
+
+<p class=MsoNormal><img width=445 height=297 id="Image 1"
+src="How%20to%20create%20an%20icon%20in%20the%20desktop%20to%20run%20an%20R%20script_fichiers/image001.jpg"></p>
+
+<p class=MsoNormal><span style='font-size:15.0pt;line-height:107%'>Attention,
+in the figure before, the location here is actually the R command that you want
+to execute when double clicking your shortcut, for example</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:15.0pt;
+line-height:107%'>R –e “shiny::runApp(launch.browser=TRUE)”</span></p>
+
+<p class=MsoNormal><span style='font-size:15.0pt;line-height:107%'>Then, type a
+name for the shortcut</span></p>
+
+<p class=MsoNormal><span style='font-size:15.0pt;line-height:107%'>ThirdVersion
+</span></p>
+
+<p class=MsoNormal><span style='font-size:15.0pt;line-height:107%'>Right click
+on the icon, then select properties, </span></p>
+
+<p class=MsoNormal><span style='font-size:15.0pt;line-height:107%'>Under the
+line Start in, type the location of your Rscript (or shiny app), for example</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:15.0pt;
+line-height:107%'>“E:\Google Drive\Data Specialization
+JHU\CapstoneProject\en_US\ThirdVersion&quot;</span></p>
+
+<p class=MsoNormal><img width=355 height=479 id="Image 2"
+src="How%20to%20create%20an%20icon%20in%20the%20desktop%20to%20run%20an%20R%20script_fichiers/image002.jpg"></p>
+
+<p class=MsoNormal><b><span style='font-size:15.0pt;line-height:107%'>Important
+Note:</span></b><span style='font-size:15.0pt;line-height:107%'> make sure that
+in your Path environmental variable (system), the R bin executable is listed,
+like here in this figure.  Also remember that the corresponding R version that
+is pointed to must have libraries used in your R script.</span></p>
+
+<p class=MsoNormal><img width=312 height=144 id="Image 3"
+src="How%20to%20create%20an%20icon%20in%20the%20desktop%20to%20run%20an%20R%20script_fichiers/image003.jpg"></p>
+
+</div>
+
+</body>
+
+</html>
